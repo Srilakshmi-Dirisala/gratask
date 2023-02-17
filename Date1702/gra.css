@@ -1,0 +1,57 @@
+body {
+   background-color:black;
+   background-repeat: no-repeat;
+   background-size: cover;
+   font-family:  cursive;
+   }
+
+  .greycolor {
+   
+    background-color: rgb(39, 37, 37)
+  }
+  .bcolor {
+    color: rgb(199, 2, 2);
+  }
+  .textred:hover {
+    background-color: firebrick;
+  }
+
+
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid white;
+    float: left;
+    width: 80%;
+    background: #131212;
+    
+   border-radius: 1px;
+   border-right: none;
+ 
+  }
+  
+  /* form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background:rgb(10, 10, 9);
+    color: rgb(8, 3, 3);
+    font-size: 17px;
+    border: 1px solid rgb(213, 210, 210);
+    
+    cursor: pointer;
+    border-radius: 2px;
+    border-left: none;
+   
+    
+  }
+  
+  form.example button:hover {
+    background: rgb(7, 7, 7);
+  }
+  
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  } */
